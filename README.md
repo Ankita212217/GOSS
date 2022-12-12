@@ -1,1 +1,1 @@
-# GOSS
+# GSOC
